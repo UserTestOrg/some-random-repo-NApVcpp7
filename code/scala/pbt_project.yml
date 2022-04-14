@@ -1,11 +1,11 @@
 name: carolynn.ortiz
 description: Customer-focused
-version: 1
+version: 1-SNAPSHOT
 author: doyle.mayer@yahoo.com
-workflows:
+pipelines:
   workflows/Alfredo_Walker:
     name: Alfredo_Walker
-    description: null
+    description: ''
     author: bev.macgyver@yahoo.com
     mode: batch
     language: scala
@@ -13,9 +13,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Christine_Wolf:
     name: Christine_Wolf
-    description: null
+    description: ''
     author: joan.abernathy@yahoo.com
     mode: batch
     language: scala
@@ -23,9 +24,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Rueben_Schneider:
     name: Rueben_Schneider
-    description: null
+    description: ''
     author: gavin.larkin@gmail.com
     mode: batch
     language: scala
@@ -33,9 +35,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Gilbert_Grant:
     name: Gilbert_Grant
-    description: null
+    description: ''
     author: landon.gislason@yahoo.com
     mode: batch
     language: scala
@@ -43,9 +46,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Mary_Rath_MD:
     name: Mary_Rath_MD
-    description: null
+    description: ''
     author: sarah.vonrueden@yahoo.com
     mode: batch
     language: scala
@@ -53,9 +57,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Mrs__Dexter_Lind:
     name: Mrs__Dexter_Lind
-    description: null
+    description: ''
     author: francis.wyman@yahoo.com
     mode: batch
     language: scala
@@ -63,9 +68,10 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
   workflows/Jan_Barrows_II:
     name: Jan_Barrows_II
-    description: null
+    description: ''
     author: mariana.dickens@hotmail.com
     mode: batch
     language: scala
@@ -73,5 +79,7 @@ workflows:
     datasets:
       inputs: []
       outputs: []
+    dependencies: {}
 datasets: {}
-schedules: {}
+jobs: {}
+libraries: []
