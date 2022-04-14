@@ -1,0 +1,77 @@
+name: carolynn.ortiz
+description: Customer-focused
+version: 1
+author: doyle.mayer@yahoo.com
+workflows:
+  workflows/Alfredo_Walker:
+    name: Alfredo_Walker
+    description: null
+    author: bev.macgyver@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-01 15:18:53'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Christine_Wolf:
+    name: Christine_Wolf
+    description: null
+    author: joan.abernathy@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-02 14:51:40'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Rueben_Schneider:
+    name: Rueben_Schneider
+    description: null
+    author: gavin.larkin@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-01 10:09:38'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Gilbert_Grant:
+    name: Gilbert_Grant
+    description: null
+    author: landon.gislason@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-02 05:02:08'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Mary_Rath_MD:
+    name: Mary_Rath_MD
+    description: null
+    author: sarah.vonrueden@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-03 08:52:30'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Mrs__Dexter_Lind:
+    name: Mrs__Dexter_Lind
+    description: null
+    author: francis.wyman@yahoo.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-01 10:57:38'
+    datasets:
+      inputs: []
+      outputs: []
+  workflows/Jan_Barrows_II:
+    name: Jan_Barrows_II
+    description: null
+    author: mariana.dickens@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-02-03 09:45:25'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules: {}
